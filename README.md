@@ -32,7 +32,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 
 ### Step 4: Write a Report on the Neural Network Model
 
-#### Overview of the analysis: 
+#### Overview of the analysis: Alternate and determine columns in order to design and evaluate neural network models to solve a binary classification problem. 
 
 #### Results: 
 
